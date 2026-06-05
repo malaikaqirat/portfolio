@@ -70,7 +70,7 @@ export default function Navbar() {
           {/* Right side CTA or socials */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/malaikaqirat"
               target="_blank"
               rel="noreferrer"
               className="text-slate-400 hover:text-neon-blue transition-colors duration-300"
@@ -78,7 +78,7 @@ export default function Navbar() {
               <FaGithub size={18} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/malaika-qirat575"
               target="_blank"
               rel="noreferrer"
               className="text-slate-400 hover:text-neon-purple transition-colors duration-300"
@@ -127,10 +127,10 @@ export default function Navbar() {
             </div>
             <div className="flex gap-4 items-center justify-between pt-4">
               <div className="flex gap-4">
-                <a href="https://github.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-neon-blue">
+                <a href="https://github.com/malaikaqirat" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-neon-blue">
                   <FaGithub size={20} />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-neon-purple">
+                <a href="https://linkedin.com/in/malaika-qirat575" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-neon-purple">
                   <FaLinkedin size={20} />
                 </a>
               </div>

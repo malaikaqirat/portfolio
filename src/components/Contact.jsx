@@ -48,7 +48,7 @@ export default function Contact() {
             <div className="flex flex-col gap-4">
               
               <a
-                href="mailto:malaikaqirat@example.com"
+                href="mailto:malaikqirat866@gmail.com"
                 className="flex items-center gap-4 p-4 rounded-xl glassmorphism border-white/5 hover:border-neon-blue/20 hover:bg-white/5 transition-all duration-300 group"
               >
                 <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center border border-white/10 group-hover:bg-neon-blue/10 transition-colors duration-300">
@@ -56,12 +56,12 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-[10px] text-slate-500 font-mono tracking-widest uppercase font-bold">Mail Address</div>
-                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">malaika.qirat@gmail.com</div>
+                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">malaikqirat866@gmail.com</div>
                 </div>
               </a>
 
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/malaika-qirat575"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 p-4 rounded-xl glassmorphism border-white/5 hover:border-neon-purple/20 hover:bg-white/5 transition-all duration-300 group"
@@ -71,12 +71,12 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-[10px] text-slate-500 font-mono tracking-widest uppercase font-bold">LinkedIn Profile</div>
-                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">linkedin.com/in/malaika-qirat</div>
+                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">linkedin.com/in/malaika-qirat575</div>
                 </div>
               </a>
 
               <a
-                href="https://github.com"
+                href="https://github.com/malaikaqirat"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 p-4 rounded-xl glassmorphism border-white/5 hover:border-neon-pink/20 hover:bg-white/5 transition-all duration-300 group"
@@ -86,7 +86,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-[10px] text-slate-500 font-mono tracking-widest uppercase font-bold">GitHub Showcase</div>
-                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">github.com/malaika-qirat</div>
+                  <div className="text-xs text-slate-300 font-semibold group-hover:text-white transition-colors duration-300">github.com/malaikaqirat</div>
                 </div>
               </a>
 
